@@ -17,6 +17,9 @@ A repository to store my rusty experiments. 🦀
     4. Run the project with <code>cargo run</code>.
 </details>
 
+## Learning Resources
+* [Rust Documentation](https://doc.rust-lang.org/book/title-page.html)
+
 ## Crates
 Cool crates to check out:
 * [tui](https://crates.io/crates/tui)
